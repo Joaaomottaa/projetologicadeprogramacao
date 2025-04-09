@@ -5,8 +5,28 @@
 Este é um sistema bancário completo desenvolvido como projeto final da disciplina de **Lógica de Programação** no curso de **Desenvolvimento de Sistemas**. O objetivo principal foi aplicar os conceitos de lógica, validações, modularização, estrutura de dados e manipulação de arquivos, simulando o funcionamento de um banco real por terminal.
 
 ---
+# 📁 Organização das Pastas
 
-##  Funcionalidades Principais
+O projeto está estruturado em pastas para facilitar a organização e entendimento dos arquivos utilizados durante o desenvolvimento do sistema.
+
+🗒️ **Observação importante**: As pastas e arquivos contidos no projeto são apenas **exemplos** gerados em testes e simulações. Eles servem como referência de funcionamento e estrutura.
+
+# Pasta /	Descrição
+
+- **Banco de dados - contas**/	Contém arquivos .txt simulando o armazenamento individual das contas criadas com base no CPF do cliente.
+
+- **Comprovantes de transacoes**/	Armazena comprovantes gerados automaticamente nas operações como saques, depósitos, transferências e extratos.
+  
+- **Imagens**/	Capturas de tela e imagens ilustrativas do funcionamento do sistema bancário no terminal.
+  
+- **Senhas na fila** /	Arquivos de controle de senha preferencial e convencional gerados pelo sistema durante o atendimento.
+  
+- **Todas contas do banco** /	Contém o arquivo contas.txt com o registro de todas as contas criadas no sistema.
+  
+- **Src** /	Pasta onde se encontra o código-fonte principal do sistema (Sistema-Bancario.cpp).
+
+
+## ⚙️ Funcionalidades Principais
 
 - **Geração de Senhas com Prioridade**
   - Geração de senhas **preferenciais** e **convencionais**.
