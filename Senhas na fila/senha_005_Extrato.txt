@@ -1,0 +1,13 @@
+|====== SENHA DE ATENDIMENTO ======|
+|  Banco ProtecBank                |
+|  Agência: 0001                   |
+|  Mesa de Atendimento: 13 e 14    |
+|  Cliente: Rafael                 |
+|  Serviço: Extrato                |
+|  Senha: 005                      |
+|  Data/Hora: 09/04/2025 11:55     |
+|                                  |
+|  Aguarde sua senha ser chamada.  |
+|                                  |
++----------------------------------+
+

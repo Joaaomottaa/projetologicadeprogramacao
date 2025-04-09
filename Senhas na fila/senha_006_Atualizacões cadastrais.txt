@@ -1,0 +1,13 @@
+|====== SENHA DE ATENDIMENTO ======|
+|  Banco ProtecBank                |
+|  Agência: 0001                   |
+|  Mesa de Atendimento: 14 e 15    |
+|  Cliente: Liao                   |
+|  Serviço: Atualizacões cadastrais|
+|  Senha: 006                      |
+|  Data/Hora: 09/04/2025 11:55     |
+|                                  |
+|  Aguarde sua senha ser chamada.  |
+|                                  |
++----------------------------------+
+

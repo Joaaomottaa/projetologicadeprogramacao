@@ -1,0 +1,13 @@
+|====== SENHA DE ATENDIMENTO ======|
+|  Banco ProtecBank                |
+|  Agência: 0001                   |
+|  Mesa de Atendimento:  3 e  4    |
+|  Cliente: Joaquim                |
+|  Serviço: Encerrar Conta         |
+|  Senha: 001                      |
+|  Data/Hora: 09/04/2025 11:53     |
+|                                  |
+|  Aguarde sua senha ser chamada.  |
+|                                  |
++----------------------------------+
+

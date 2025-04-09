@@ -1,0 +1,13 @@
+|====== SENHA DE ATENDIMENTO ======|
+|  Banco ProtecBank                |
+|  Agência: 0001                   |
+|  Mesa de Atendimento:  5 e  6    |
+|  Cliente: Kaio                   |
+|  Serviço: Consultar Saldo        |
+|  Senha: P002                     |
+|  Data/Hora: 09/04/2025 11:54     |
+|                                  |
+|  Aguarde sua senha ser chamada.  |
+|                                  |
++----------------------------------+
+

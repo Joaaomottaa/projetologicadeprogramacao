@@ -1,0 +1,13 @@
+|====== SENHA DE ATENDIMENTO ======|
+|  Banco ProtecBank                |
+|  Agência: 0001                   |
+|  Mesa de Atendimento:  9 e 10    |
+|  Cliente: Rayla                  |
+|  Serviço: Realizar Saque         |
+|  Senha: 003                      |
+|  Data/Hora: 09/04/2025 11:54     |
+|                                  |
+|  Aguarde sua senha ser chamada.  |
+|                                  |
++----------------------------------+
+
