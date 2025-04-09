@@ -1,0 +1,46 @@
+----------------------------------------
+       REGISTRO DE CONTAS DO BANCO      
+----------------------------------------
+
+Total de clientes no banco: 2
+
+Cliente 1:
+----------------------------------------
+Pix                    : 75999484711
+CPF                    : 43010903553
+Nome completo          : Joabe Mota
+Data de nascimento     : 10/04/1956
+Número da Conta        : 1000-1
+Conta criada em        : 09/04/2025 às 00:27
+----------------------------------------
+
+Cliente 2:
+----------------------------------------
+Pix                    : cris@gmail.com
+CPF                    : 10919587622
+Nome completo          : Cristiane Felicia
+Data de nascimento     : 14/09/2000
+Número da Conta        : 1001-7
+Conta criada em        : 09/04/2025 às 00:30
+----------------------------------------
+
+Cliente 3:
+----------------------------------------
+Pix                    : oep-9ly-ay3
+CPF                    : 12312312312
+Nome completo          : Maria
+Data de nascimento     : 22/04/1996
+Número da Conta        : 1002-4
+Conta criada em        : 08/04/2025 às 11:38
+----------------------------------------
+
+Cliente 4:
+----------------------------------------
+Pix                    : kbb-40e-osy
+CPF                    : 12222212122
+Nome completo          : Joao paulo
+Data de nascimento     : 22/04/1998
+Número da Conta        : 1003-0
+Conta criada em        : 08/04/2025 às 12:05
+----------------------------------------
+
