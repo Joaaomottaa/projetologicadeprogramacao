@@ -1,0 +1,23 @@
+--------------------------------------------------
+|            COMPROVANTE DE TRANSFERÊNCIA         |
+--------------------------------------------------
+Valor: R$ 20,00
+Tipo de Transferência: Pix
+Data e Hora: 09/04/2025 00:42:52
+Código da Transação: E87-60XL-SLS7
+--------------------------------------------------
+|                INFORMAÇÕES DO DESTINATÁRIO      |
+--------------------------------------------------
+Nome: Cristiane Felicia
+Instituição: ProtectBank
+Agência: 0001
+--------------------------------------------------
+|                  INFORMAÇÕES DO REMETENTE       |
+--------------------------------------------------
+Nome: Joabe Mota
+Número da Conta: 1000-1
+Instituição: ProtectBank
+Agência: 0001
+--------------------------------------------------
+|             Transação realizada com sucesso!    |
+--------------------------------------------------

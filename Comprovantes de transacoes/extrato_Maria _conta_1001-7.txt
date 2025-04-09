@@ -1,0 +1,26 @@
+============================================================
+               Comprovante de Extrato Bancário              
+                        ProtecBank                          
+============================================================
+Cliente           : Maria 
+Número da Conta   : 1001-7
+Data da Solicitação: 09/04/2025 às 12:00:57
+------------------------------------------------------------
+        EXTRATO BANCÁRIO   
+=============================================
+Saldo Atual: R$ 1550,00
+
+Data e Hora           | Tipo              | Valor      | Destinatário       | Código de Transação
+-----------------------------------------------------------------------------------------------
+07/04/2025 00:23:35   | Transferência PIX |   -2,00    | Joao paulo         | 3ZP-ZXH0-DA1Y
+07/04/2025 00:27:46   | Transferência PIX |   -1,00    | Joao paulo         | YU8-ET24-S7IR
+07/04/2025 00:35:01   | Transferência PIX |   -1,00    | Joao paulo         | G78-EAET-EUTY
+07/04/2025 00:42:46   | Depósito          |   +1000,00 |                    | F98-ER24-S8UR
+07/04/2025 00:43:49   | Saque             |   -1,00    |                    | 3ZP-ZXH0-DA1Y
+08/04/2025 11:31:42   | Depósito          |   +500,00  |                    | F98-ER24-S8UR
+08/04/2025 11:32:37   | Saque             |   -300,00  |                    | 3ZP-ZXH0-DA1Y
+08/04/2025 11:33:26   | Transferência PIX |   -150,00  | Joao paulo         | OJE-8760-XLSL
+08/04/2025 11:35:39   | Depósito          |   +500,00  |                    | S7E-9TH4-LPCV
+------------------------------------------------------------
+            Obrigado por utilizar o ProtecBank!            
+============================================================

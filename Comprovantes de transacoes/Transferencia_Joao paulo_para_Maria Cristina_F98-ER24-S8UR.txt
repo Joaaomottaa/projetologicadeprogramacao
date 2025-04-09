@@ -1,0 +1,24 @@
+--------------------------------------------------
+|            COMPROVANTE DE TRANSFERÊNCIA         |
+--------------------------------------------------
+Valor: R$ 1,00
+Tipo de Transferência: Pix
+Data e Hora: 28/03/2025 às 22:50
+Código da Transação: F98-ER24-S8UR
+--------------------------------------------------
+|                INFORMAÇÕES DO DESTINATÁRIO      |
+--------------------------------------------------
+Nome: Maria Cristina
+Instituição: ProtectBank
+Número da Conta: 1001-7
+Agência: 0001
+--------------------------------------------------
+|                  INFORMAÇÕES DO REMETENTE       |
+--------------------------------------------------
+Nome: Joao paulo
+Instituição: ProtectBank
+Número da Conta: 1000-1
+Agência: 0001
+--------------------------------------------------
+|             Transação realizada com sucesso!    |
+--------------------------------------------------
