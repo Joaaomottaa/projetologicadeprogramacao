@@ -1,0 +1,53 @@
+=============================================
+      DETALHES DA SUA CONTA BANCÁRIA         
+=============================================
+
+Pix                    : kbb-40e-osy
+CPF                    : 12222212122
+Nome completo          : Joao paulo
+Data de nascimento     : 22/04/1998
+Número da Conta        : 1002-0
+Endereço               : adao
+Número                 : a11
+Bairro                 : 122
+Cidade                 : 111
+Estado                 : BA
+CEP                    : 44034044
+Tipo de conta          : Conta Poupança
+Telefone               : 75991204148
+E-mail                 : l2mortal01@gmail.com
+Senha                  : Jp6128@
+Senha de Transação     : 6128
+Pergunta Secreta       : 6128
+Resposta Secreta       : Miau
+Saldo                  : R$ 189,00
+Conta criada em        : 08/04/2025 às 12:05
+
+
+=============================================
+         CAIXA DE ENTRADA DO TELEFONE  
+
+Código de Recuperação: 125544
+Recebido em: 08/04/2025 às 23:58:18
+--------------------------------------------
+
+=============================================
+         CAIXA DE ENTRADA DO E-MAIL  
+
+
+
+
+=============================================
+        EXTRATO BANCÁRIO   
+=============================================
+Saldo Atual: R$ 189,00
+
+Data e Hora           | Tipo              | Valor      | Destinatário       | Código de Transação
+-----------------------------------------------------------------------------------------------
+06/04/2025 às 23:27   | Recebimento PIX   |  +30,00    | Maria              | 3ZP-ZXH0-DA1Y
+06/04/2025 23:34:43   | Recebimento PIX   | +  10,00   | Maria  	    | YU8-ET24-S7IR
+07/04/2025 00:22:22   | Recebimento PIX   | +   5,00   | Maria              | F98-ER24-S8UR
+07/04/2025 00:23:35   | Recebimento PIX   | +   2,00   | Maria              | 3ZP-ZXH0-DA1Y
+07/04/2025 00:27:46   | Recebimento PIX   |   +1,00    | Maria              | F98-ER24-S8UR
+07/04/2025 00:35:01   | Recebimento PIX   |   +1,00    | Maria              | F98-ER24-S8UR
+08/04/2025 11:33:26   | Recebimento PIX   | +150,00    | Maria              | OJE-8760-XLSL

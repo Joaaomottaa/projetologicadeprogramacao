@@ -1,0 +1,45 @@
+=============================================
+      DETALHES DA SUA CONTA BANCÁRIA         
+=============================================
+
+Pix                    : cris@gmail.com
+CPF                    : 10919587622
+Nome completo          : Cristiane Felicia
+Data de nascimento     : 14/09/2000
+Número da Conta        : 1001-7
+Endereço               : Carlos valadares
+Número                 : 566
+Bairro                 : Queimadinha
+Cidade                 : Sao paulo
+Estado                 : SP
+CEP                    : 44099333
+Tipo de conta          : Conta Corrente
+Telefone               : 75934881526
+E-mail                 : crisfe@gmail.com
+Senha                  : Jp6128@
+Senha de Transação     : 6128
+Pergunta Secreta       : Nome da minha ma
+Resposta Secreta       : Lurder
+Saldo                  : R$ 20,00
+Conta criada em        : 09/04/2025 às 00:30
+
+
+=============================================
+         CAIXA DE ENTRADA DO TELEFONE  
+
+
+
+=============================================
+         CAIXA DE ENTRADA DO E-MAIL  
+
+
+
+
+=============================================
+        EXTRATO BANCÁRIO   
+=============================================
+Saldo Atual: R$ 20,00
+
+Data e Hora           | Tipo              | Valor      | Destinatário       | Código de Transação
+-----------------------------------------------------------------------------------------------
+09/04/2025 00:42:52   | Recebimento PIX   |  +20,00    | Joabe Mota         | E87-60XL-SLS7

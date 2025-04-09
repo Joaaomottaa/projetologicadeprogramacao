@@ -1,0 +1,67 @@
+=============================================
+      DETALHES DA SUA CONTA BANCÁRIA         
+=============================================
+
+Pix                    : oep-9ly-ay3
+CPF                    : 12312312312
+Nome completo          : Maria 
+Data de nascimento     : 22/04/1996
+Número da Conta        : 1001-4
+Endereço               : Eva
+Número                 : 119
+Bairro                 : Centro
+Cidade                 : Sao Paulo
+Estado                 : BA
+CEP                    : 44034084
+Tipo de conta          : Conta Corrente
+Telefone               : 75934881526
+E-mail                 : l2mortal01@gmail.com
+Senha                  : Jp3488@
+Senha de Transação     : 6128
+Pergunta Secreta       : Nome do meu gato
+Resposta Secreta       : Miauzinho
+Saldo                  : R$ 220,00
+Conta criada em        : 08/04/2025 às 11:38
+
+
+=============================================
+         CAIXA DE ENTRADA DO TELEFONE  
+
+Código de Recuperação: 113444
+Recebido em: 08/04/2025 às 23:44:18
+--------------------------------------------
+Código de Recuperação: 113134
+Recebido em: 08/04/2025 às 23:42:45
+---------------------------------------------
+
+
+
+
+=============================================
+         CAIXA DE ENTRADA DO E-MAIL  
+
+Código de Recuperação: 124442
+Recebido em: 08/04/2025 às 23:50:18
+--------------------------------------------
+Código de Recuperação: 124333
+Recebido em: 08/04/2025 às 23:48:45
+---------------------------------------------
+
+
+
+=============================================
+        EXTRATO BANCÁRIO   
+=============================================
+Saldo Atual: R$ 220,00
+
+Data e Hora           | Tipo              | Valor      | Destinatário       | Código de Transação
+-----------------------------------------------------------------------------------------------
+07/04/2025 00:23:35   | Transferência PIX |   -2,00    | Joao paulo         | 3ZP-ZXH0-DA1Y
+07/04/2025 00:27:46   | Transferência PIX |   -1,00    | Joao paulo         | YU8-ET24-S7IR
+07/04/2025 00:35:01   | Transferência PIX |   -1,00    | Joao paulo         | G78-EAET-EUTY
+07/04/2025 00:42:46   | Depósito          |   +1000,00 |                    | F98-ER24-S8UR
+07/04/2025 00:43:49   | Saque             |   -1,00    |                    | 3ZP-ZXH0-DA1Y
+08/04/2025 11:31:42   | Depósito          |   +500,00  |                    | F98-ER24-S8UR
+08/04/2025 11:32:37   | Saque             |   -300,00  |                    | 3ZP-ZXH0-DA1Y
+08/04/2025 11:33:26   | Transferência PIX |   -150,00  | Joao paulo         | OJE-8760-XLSL
+08/04/2025 11:35:39   | Depósito          |   +500,00  |                    | S7E-9TH4-LPCV

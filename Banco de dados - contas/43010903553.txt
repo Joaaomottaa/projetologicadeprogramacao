@@ -1,0 +1,55 @@
+=============================================
+      DETALHES DA SUA CONTA BANCÁRIA         
+=============================================
+
+Pix                    : 75999484711
+CPF                    : 43010903553
+Nome completo          : Joabe Mota
+Data de nascimento     : 10/04/1956
+Número da Conta        : 1000-1
+Endereço               : Oliveiras
+Número                 : 902
+Bairro                 : Campo Limpo
+Cidade                 : Feira de santana
+Estado                 : BA
+CEP                    : 44034000
+Tipo de conta          : Conta Poupança
+Telefone               : 75991204148
+E-mail                 : joabe01@gmail.com
+Senha                  : Jp6128@
+Senha de Transação     : 6128
+Pergunta Secreta       : Nome do cachorro
+Resposta Secreta       : Miau
+Saldo                  : R$ 50,00
+Conta criada em        : 09/04/2025 às 00:27
+
+
+=============================================
+         CAIXA DE ENTRADA DO TELEFONE  
+
+Código de Recuperação: 125285
+Recebido em: 09/04/2025 às 00:44:44
+---------------------------------------------
+
+
+=============================================
+         CAIXA DE ENTRADA DO E-MAIL
+  
+Código de Recuperação: 125536
+Recebido em: 09/04/2025 às 00:46:01
+---------------------------------------------
+
+
+
+
+
+=============================================
+        EXTRATO BANCÁRIO   
+=============================================
+Saldo Atual: R$ 50,00
+
+Data e Hora           | Tipo              | Valor      | Destinatário       | Código de Transação
+-----------------------------------------------------------------------------------------------
+09/04/2025 00:40:24   | Depósito          | +100,00    |                    | 8ER-24S8-UR3Z
+09/04/2025 00:42:02   | Saque             | -30,00     |                    | PZX-H0DA-1YOJ
+09/04/2025 00:42:52   | Transferência PIX |  -20,00    | Cristiane Felicia  | E87-60XL-SLS7
